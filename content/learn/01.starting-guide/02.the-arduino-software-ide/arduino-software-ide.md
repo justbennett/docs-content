@@ -13,7 +13,7 @@ The following steps can guide you with using the offline IDE (you can choose eit
 **1.** Download and install the Arduino Software IDE:
 
    - **Arduino IDE 1.x.x** ([Windows](https://www.arduino.cc/en/Guide/Windows), [Mac OS](https://www.arduino.cc/en/Guide/macOS), [Linux](https://www.arduino.cc/en/Guide/Linux), [Portable IDE](https://www.arduino.cc/en/Guide/PortableIDE) for Windows and Linux, [ChromeOS](https://chrome.google.com/webstore/detail/arduino-create/dcgicpihgkmccjigalccipmjlnjopdfe)).
-   - [**Arduino IDE 2.x**]([https://www.arduino.cc/en/Tutorial/getting-started-with-ide-v2/ide-v2-downloading-and-installing](https://www.arduino.cc/en/Tutorial/getting-started-with-ide-v2/ide-v2-downloading-and-installing))
+   - [**Arduino IDE 2.x**](https://www.arduino.cc/en/Tutorial/getting-started-with-ide-v2/ide-v2-downloading-and-installing)
 
 **2.** Connect your Arduino board to your device.
 
